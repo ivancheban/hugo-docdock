@@ -79,10 +79,10 @@ center= true
 
 ___
 
-## Getting up
+## Use Markdown syntax
 
-- Turn off alarm
-- Get out of bed
+- Turn your markdown file into a slide
+- Use RevealJS technology
 
 ___
 
