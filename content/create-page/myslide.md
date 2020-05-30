@@ -13,11 +13,11 @@ history= false
 center= true
 +++
 
-# In the morning
+# Use code to build your presentation
 
 ___
 
-## Getting up
+## Use Markdown syntax
 
 - Turn off alarm
 - Get out of bed
