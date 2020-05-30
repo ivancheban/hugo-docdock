@@ -86,28 +86,28 @@ ___
 
 ___
 
-## Breakfast
+## Create your presentations with Markdown
 
-- Eat eggs
-- Drink coffee
+- No PowerPoint
+- Play slides from your browser
 
 ---
 
-# In the evening
+# Technical writing skills
 
 ___
 
-## Dinner
+## Show your code
 
-- Eat spaghetti
-- Drink wine
+- Open Markdown file
+- Present to colleagues
 
 ___
 
-## Going to sleep
+## Wrapping up
 
-- Get in bed
-- Count sheep
+- Contacts
+- Questions
 
 ```
 
