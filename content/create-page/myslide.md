@@ -1,6 +1,6 @@
 +++
 title = "Slide Presentation ! RevealJS"
-# date = "2017-04-24T18:36:24+02:00"
+date = "2020-05-30T11:34:24+02:00"
 type="slide"
 hidden=true
 
