@@ -1,12 +1,12 @@
 [build]
-  publish = "public/original"
+  publish = "exampleSite/public"
   command = '''hugo -s exampleSite --config "exampleSite/config.toml" \
 && hugo -s exampleSite --config "exampleSite/config.toml,exampleSite/config-original.toml"'''
 
 [build.environment]
   HUGO_VERSION = "0.51"
-  HUGO_THEME = "hugo-theme-docdock"
-  HUGO_THEMESDIR = "/opt/build"
+  HUGO_THEME = "repo"
+  # HUGO_THEMESDIR = "/opt/build"
 
 # [context.production.environment]
 #   HUGO_VERSION = "0.51"
