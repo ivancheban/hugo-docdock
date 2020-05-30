@@ -1,6 +1,6 @@
 +++
-title = "My Slide ! fullscreen"
-date = "2017-04-24T18:36:24+02:00"
+title = "Slide Presentation ! RevealJS"
+# date = "2017-04-24T18:36:24+02:00"
 type="slide"
 hidden=true
 
@@ -13,36 +13,36 @@ history= false
 center= true
 +++
 
-# In the morning
+# Create presentation in Markdown
 
 ___
 
-## Getting up
+## Use Markdown syntax
 
-- Turn off alarm
-- Get out of bed
+- Edit this file in `myslide.md`
+- View the result
 
 ___
 
-## Breakfast
+## Use for presentations
 
-- Eat eggs
-- Drink coffee
+- Show your slides at presentations
+- Tell how to do this
 
 ---
 
-# In the evening
+# Presentations for everyone
 
 ___
 
-## Dinner
+## Technical writing conference
 
-- Eat spaghetti
-- Drink wine
+- Show how to create presentations from code
+- Explain how to build the site with Hugo
 
 ___
 
-## Going to sleep
+## Wrapping up
 
-- Get in bed
-- Count sheep
+- Contacts
+- Questions
