@@ -42,10 +42,12 @@ Reveal.initialize();
 ## Tables
 This is an example of a table.
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Column 1 | Column 2 | Column 3 |
+| -------- |:--------:|:--------:|
+| Text     |   Text   |   Text   |
+| Text     |   Text   |   Text   |
+| Text     |   Text   |   Text   |
+
 
 
 ### YouTube
