@@ -48,7 +48,13 @@ This is an example of a table.
 | Text     |   Text   |   Text   |
 | Text     |   Text   |   Text   |
 
-
+| Table Heading 1 | Table Heading 2 | Center align | Right align | Table Heading 5 |
+| :-------------- | :-------------- | :----------: | ----------: | :-------------- |
+| Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
+| Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
+| Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
+| Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
+| Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
 
 ### YouTube
 This is an example of YouTube video.
