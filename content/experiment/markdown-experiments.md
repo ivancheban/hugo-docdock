@@ -3,7 +3,7 @@ title = "Markdown Experiments"
 description = ""
 +++
 
-## Code Highlighting
+### Code Highlighting
 This is an example of code highlighting.
 
 ```css
@@ -38,8 +38,12 @@ Reveal.addEventListener( 'ready', function() {
 
 Reveal.initialize();
 ```
+### Expand Drop-down
 
-## Tables
+{{%expand "Wnat is inside?" %}}This is the text inside!{{% /expand%}}
+
+### Tables
+
 This is an example of a table.
 
 | Column 1 | Column 2 | Column 3 |
@@ -47,6 +51,8 @@ This is an example of a table.
 | Text     |   Text   |   Text   |
 | Text     |   Text   |   Text   |
 | Text     |   Text   |   Text   |
+
+</br>
 
 | Table Heading 1 | Table Heading 2 | Center align | Right align | Table Heading 5 |
 | :-------------- | :-------------- | :----------: | ----------: | :-------------- |
